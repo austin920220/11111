@@ -14,7 +14,7 @@
                     <li>LIST</li>
                 </ul>
             </div>
-            <h2>TODO LIST</h2>
+            <h2>介面</h2>
         </div>
         <div id="left">
         <p></p>
@@ -34,7 +34,7 @@
 
 function ask(){
 
-var x = prompt("what's your TODO LIST?");
+var x = prompt("11111");
 // console.log(x)
 var li = document.createElement("LI");
 li.textContent = x;
